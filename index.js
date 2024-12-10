@@ -11,4 +11,6 @@ for (let i = 0; i < unSortedArray.length; i++) {
     }
 }
 
-console.log('sortedArray: ', unSortedArray);
+const sortedArray = unSortedArray;
+
+console.log('sortedArray: ', sortedArray);
